@@ -26,3 +26,8 @@ Financial fraud causes massive losses every year. This project builds a model th
 4. Evaluating using Precision, Recall, F1-Score, ROC-AUC, and Confusion Matrix
 
 ## How to Run
+pip install pandas scikit-learn imbalanced-learn
+python fraud_detection.py
+
+## Output
+Prints model evaluation metrics for both models and saves the trained Random Forest model as `fraud_detection_model.pkl`.
