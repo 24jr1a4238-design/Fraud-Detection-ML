@@ -27,6 +27,7 @@ Financial fraud causes massive losses every year. This project builds a model th
 
 ## How to Run
 pip install pandas scikit-learn imbalanced-learn
+
 python fraud_detection.py
 
 ## Output
